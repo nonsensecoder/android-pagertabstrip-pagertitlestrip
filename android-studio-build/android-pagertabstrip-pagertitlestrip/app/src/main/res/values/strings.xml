@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android-PagerTabStrip-PagerTitleStrip-ViewPager</string>
+    <string name="blank_fragment">Blank fragment</string>
+    <string name="title_activity_pager_tab_strip">PagerTabStripActivity</string>
+    <string name="title_activity_pager_title_strip">PagerTitleStripActivity</string>
+    <string name="pager_tab_strip">PagerTabStrip</string>
+    <string name="pager_title_strip">PagerTitleStrip</string>
+
+</resources>
